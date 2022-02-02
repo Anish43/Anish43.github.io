@@ -323,7 +323,7 @@ section .title::after {
 .education .serv-content .outer {
   position: relative;
   width: 100%;
-  border-left: 4px solid crimson;
+  border-left: 6px solid white;
 }
 .education .outer .circle {
   border-radius: 50%;
